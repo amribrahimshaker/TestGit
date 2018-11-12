@@ -6,3 +6,5 @@ this is my first text file
 added some code here to fix issue
 
 updates from second
+
+int x=17
