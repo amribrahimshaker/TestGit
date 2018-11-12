@@ -7,4 +7,5 @@ added some code here to fix issue
 
 updates from second
 
-int x=17
+
+int x=34
