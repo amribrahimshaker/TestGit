@@ -9,3 +9,6 @@ updates from second
 
 
 int x=34
+
+adding new function(){
+}
