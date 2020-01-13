@@ -1,14 +1,18 @@
 int x=34;
 int y=50;
 
+swap(int a, int b){
+	temp=a;
+	a=b;
+	b=temp;
+}
+
 print x;
 print y;
 
 // adding swap handling
 //swapping
-int temp=x;
-x=y;
-y=temp;
+swap(x,y)
 
 print x;
 print y;
