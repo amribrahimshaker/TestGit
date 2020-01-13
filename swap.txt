@@ -4,6 +4,7 @@ int y=50;
 print x;
 print y;
 
+// adding swap handling
 //swapping
 int temp=x;
 x=y;
