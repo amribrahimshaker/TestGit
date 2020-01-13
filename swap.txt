@@ -1,0 +1,10 @@
+int x=20;
+int y=50;
+
+print x;
+print y;
+
+//swapping
+
+print x;
+print y;
